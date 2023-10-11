@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a program that allows the 1-2 users to play Tic-Tac-Toe. This game can be ran on a single computer or on 2 separate computers, where the program uses sockets to connect players via host and port info. Upon running both player1 and player2 files, ensure that player 1 matches the host and port information of player 2 for a connection to be made. 
+This is a program that allows 1-2 users to play Tic-Tac-Toe. This game can be ran on a single computer or on 2 separate computers, where the program uses sockets to connect players via host and port info. Upon running both player1 and player2 files, ensure that player 1 matches the host and port information of player 2 for a connection to be made. 
 
 The board is printed into the shell output for both players, and each player takes turns to make moves on the board. Once a player makes a move using the prompts, the move is sent to the other player. At the end of a game, stats are printed based on the number of games played, and player 1 can choose to play another game.
 
